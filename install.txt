@@ -1,0 +1,7 @@
+Simple Install
+1. Login to WordPress and go to Plugins > Add New > Upload
+2. Upload pata-recent-posts-widget.zip and activate
+
+Manual Install
+1. Upload the orbit-slider folder to your /wp-content/plugins/ directory.
+2. Activate the plugin through the 'Plugins' menu in WordPress.
